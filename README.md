@@ -1,8 +1,38 @@
-# IIITDMK Courses 
+<div align="center">
+    <h1 id="iiitdmk-courses">IIITDMK Courses</h1>
+    <p>Collection of repositories of IIITDM Kancheepuram students pertaining to different courses.</p>
+</div>
+
+<br/>
+
+## Contents
+
+- [Programming and Data Structures (COM207T)](#programming-and-data-structures-com207t)
+- [Design and Analysis of Algorithms (COM209T)](#design-and-analysis-of-algorithms-com209t)
+- [Computer Organization and Design (COM211T)](#computer-organization-and-design-com211t)
+- [Database Systems (COM212T)](#database-systems-com212t)
+- [Operating Systems (COM301T)](#operating-systems-com301t)
+- [Computer Networking (COM302T)](#computer-networking-com302t)
+- [Automata and Compiler Design (COM306T)](#automata-and-compiler-design-com306t)
+- [Computer Architecture (COM307T)](#computer-architecture-com307t)
+- [Human Computer Interaction (COM402T)](#human-computer-interaction-com402t)
+- [Interactive Computer Graphics (COM404T)](#interactive-computer-graphics-com404t)
+- [Device Drivers (COM405T)](#device-drivers-com405t)
+- [Analytics and Systems of Big Data (COM406T)](#analytics-and-systems-of-big-data-com406t)
+- [VLSI System Design (ELE301T)](#vlsi-system-design-ele301t)
+- [Embedded Systems (ELE323T)](#embedded-systems-ele323t)
+- [Pattern Recognition](#pattern-recognition)
+- [Digital Image Processing](#digital-image-processing)
+
+<br/>
 
 ## Programming and Data Structures (COM207T)
 
 - https://github.com/KausikN/DSA_C_Files
+
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
 
 ## Design and Analysis of Algorithms (COM209T)
 
@@ -15,6 +45,10 @@
 - https://github.com/anuragnatoo/COM210P
 - https://github.com/Rit-ctrl/DAA-LAB-CODES
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Computer Organization and Design (COM211T)
 
 - https://github.com/KausikN/ARMSIM_Codes
@@ -23,9 +57,17 @@
 - https://github.com/Sinduja-S/Computer-Organization-Lab
 - https://github.com/PratyushVM/co-lab
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Database Systems (COM212T)
 
 - https://github.com/Adhesh148/DBMS-Utility-Tools
+
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
 
 ## Operating Systems (COM301T)
 
@@ -36,14 +78,26 @@
 - https://github.com/anuragnatoo/COM301P
 - https://github.com/SubZer0811/OS
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Computer Networking (COM302T)
 
 - https://github.com/KausikN/Networking_Files
 - https://github.com/PaletiKrishnasai/Networking_Practice
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Automata and Compiler Design (COM306T)
 
 - https://github.com/Adhesh148/Compiler-Utilities
+
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
 
 ## Computer Architecture (COM307T)
 
@@ -58,15 +112,27 @@
 - https://github.com/g14a/CALab
 - https://github.com/miapurva/CA-LAB
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Human Computer Interaction (COM402T)
 
 - https://github.com/KausikN/HCI_Files
 - https://github.com/anuragnatoo/COM402T-HCI
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Interactive Computer Graphics (COM404T)
 
 - https://github.com/Adhesh148/ICG-Lab
 - https://github.com/YashovardhanSiramdas/COM404P
+
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
 
 ## Device Drivers (COM405T)
 
@@ -82,6 +148,10 @@
 - https://github.com/g14a/ddlab
 - https://github.com/miapurva/Device-Drivers
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Analytics and Systems of Big Data (COM406T)
 
 - https://github.com/prat-degwekar/bd
@@ -94,6 +164,10 @@
 - https://github.com/miapurva/Endsem_LabExam_BigData
 - https://github.com/miapurva/Exam_bigdata
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## VLSI System Design (ELE301T)
 
 - https://github.com/KausikN/VLSI_Files
@@ -101,15 +175,27 @@
 - https://github.com/anuragnatoo/ELE301P
 - https://github.com/SubZer0811/VLSI
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Embedded Systems (ELE323T)
 
 - https://github.com/reisub0/es
 - https://github.com/anuragnatoo/ELE323P
 - https://github.com/g14a/ESLAB
 
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
+
 ## Pattern Recognition
 
 - https://github.com/SreepathyJayanand/PR_Project
+
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
 
 ## Digital Image Processing
 
@@ -121,3 +207,7 @@
 - https://github.com/guptaanmol184/DIP
 - https://github.com/RahulNenavath/Digital-Image-Processing
 - https://github.com/g14a/dip
+
+<div align="right">
+    <a href="#iiitdmk-courses">↥ back to top</a>
+</div>
