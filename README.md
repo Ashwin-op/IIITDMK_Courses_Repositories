@@ -66,6 +66,7 @@
 ## Interactive Computer Graphics (COM404T)
 
 - https://github.com/Adhesh148/ICG-Lab
+- https://github.com/YashovardhanSiramdas/COM404P
 
 ## Device Drivers (COM405T)
 
