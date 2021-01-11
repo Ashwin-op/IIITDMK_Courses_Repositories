@@ -56,6 +56,7 @@
 - https://github.com/PaletiKrishnasai/ComputerOrganisation-LAB
 - https://github.com/Sinduja-S/Computer-Organization-Lab
 - https://github.com/PratyushVM/co-lab
+- https://github.com/sujoyyyy/ARM-Assembly-Codes
 
 <div align="right">
     <a href="#iiitdmk-courses">↥ back to top</a>
@@ -77,6 +78,7 @@
 - https://github.com/Adhesh148/Operating-Systems
 - https://github.com/anuragnatoo/COM301P
 - https://github.com/SubZer0811/OS
+- https://github.com/sujoyyyy/Operating-Systems
 
 <div align="right">
     <a href="#iiitdmk-courses">↥ back to top</a>
@@ -86,6 +88,7 @@
 
 - https://github.com/KausikN/Networking_Files
 - https://github.com/PaletiKrishnasai/Networking_Practice
+- https://github.com/sujoyyyy/CN-programs
 
 <div align="right">
     <a href="#iiitdmk-courses">↥ back to top</a>
@@ -94,6 +97,7 @@
 ## Automata and Compiler Design (COM306T)
 
 - https://github.com/Adhesh148/Compiler-Utilities
+- https://github.com/sujoyyyy/Compiler-Design
 
 <div align="right">
     <a href="#iiitdmk-courses">↥ back to top</a>
@@ -174,6 +178,7 @@
 - https://github.com/PaletiKrishnasai/VLSI_Practice
 - https://github.com/anuragnatoo/ELE301P
 - https://github.com/SubZer0811/VLSI
+- https://github.com/sujoyyyy/VLSI
 
 <div align="right">
     <a href="#iiitdmk-courses">↥ back to top</a>
