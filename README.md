@@ -111,9 +111,7 @@
 - https://github.com/AkshaY2039/Computer-Architecture
 - https://github.com/Nitesh8998/COMP_ARCH_2019
 - https://github.com/adithyasrinivas11/computer-architecture-lab
-- https://github.com/ArjunRameshV/Computer-Architecture-
 - https://github.com/anirudh-11/CA
-- https://github.com/g14a/CALab
 - https://github.com/miapurva/CA-LAB
 
 <div align="right">
