@@ -133,6 +133,7 @@
 
 - https://github.com/Adhesh148/ICG-Lab
 - https://github.com/YashovardhanSiramdas/COM404P
+- https://github.com/HariniJeyaraman/ICG-Lab
 
 <div align="right">
     <a href="#iiitdmk-courses">↥ back to top</a>
@@ -212,6 +213,7 @@
 - https://github.com/guptaanmol184/DIP
 - https://github.com/RahulNenavath/Digital-Image-Processing
 - https://github.com/g14a/dip
+- https://github.com/Aditya-ds-1806/DIP-Algorithms
 
 <div align="right">
     <a href="#iiitdmk-courses">↥ back to top</a>
