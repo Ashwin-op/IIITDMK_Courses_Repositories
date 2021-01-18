@@ -188,6 +188,7 @@
 - https://github.com/reisub0/es
 - https://github.com/anuragnatoo/ELE323P
 - https://github.com/g14a/ESLAB
+- https://github.com/KausikN/EmbeddedSystems_Files
 
 <div align="right">
     <a href="#iiitdmk-courses">↥ back to top</a>
